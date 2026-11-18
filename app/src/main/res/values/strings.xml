@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chặn cuộc gọi</string>
+    <string name="intro">Chặn số điện thoại không mong muốn ngay trên thiết bị của bạn.</string>
+    <string name="enable_protection">Bật quyền sàng lọc cuộc gọi</string>
+    <string name="blocklist_title">Danh sách chặn</string>
+    <string name="phone_hint">Nhập số điện thoại</string>
+    <string name="add_number">Thêm số vào danh sách</string>
+    <string name="remove">Xóa</string>
+    <string name="empty_list">Chưa có số nào bị chặn.</string>
+    <string name="disclaimer">Ứng dụng chỉ chặn số khớp chính xác sau khi chuẩn hóa chữ số. Hiệu quả có thể khác nhau tùy thiết bị và nhà mạng.</string>
+    <string name="status_on">Bảo vệ đang bật — ứng dụng có quyền sàng lọc cuộc gọi.</string>
+    <string name="status_off">Bảo vệ chưa bật — hãy cấp quyền sàng lọc cuộc gọi bên dưới.</string>
+    <string name="role_unavailable">Thiết bị không hỗ trợ quyền sàng lọc cuộc gọi.</string>
+    <string name="protection_enabled">Quyền sàng lọc cuộc gọi đã được cấp.</string>
+    <string name="invalid_number">Nhập số điện thoại hợp lệ.</string>
+    <string name="number_exists">Số này đã có trong danh sách.</string>
+</resources>
